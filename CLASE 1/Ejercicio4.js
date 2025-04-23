@@ -14,3 +14,4 @@ function area (base,altura,figura){
 }
  console.log(area(10,7,"rectangulo"))
  console.log(area(10,7,"triangulo"))
+
